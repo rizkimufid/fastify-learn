@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "drizzle": {
+      "command": "npx",
+      "args": [
+        "--no-install",
+        "drizzle-kit",
+        "mcp"
+      ],
+      "cwd": "C:/Developers/PERSONAL/Backend/fastify-learn"
+    }
+  }
+}
